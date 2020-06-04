@@ -1,5 +1,5 @@
 # Web_Crawler
-Crawling images and text on website using BeautifulSoup, Urllib and ChromeDriver
+Crawling image and text c on website using BeautifulSoup, Urllib and ChromeDriver
 
 Install BeautifulSoup, Shutil, Validators and Selenium using pip
 
