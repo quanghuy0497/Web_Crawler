@@ -8,6 +8,7 @@ import validators
 from selenium import webdriver
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',}
+http = httplib2.Http()
 
 def Get_Text(url): 
     saved_dir = 'Text'
